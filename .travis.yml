@@ -1,0 +1,10 @@
+sudo: false
+language: python
+  - "2.7"
+  - "3.4"
+
+before_install: pip install --user -r dev-requirements.txt
+
+install: pip install --user tox
+
+script: tox

@@ -1,0 +1,8 @@
+image: python
+
+pipelines:
+  default:
+    - step:
+        script:
+          - pip install tox
+          - tox
