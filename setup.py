@@ -5,7 +5,7 @@ from os.path import basename, splitext
 from setuptools import find_packages, setup
 
 setup(name='lxml_to_dict',
-      version="0.1.0",
+      version="0.1.1",
       description='A simple conversion of an lxml.objectify element to a python dictionary.',
       packages=find_packages('lib'),
       package_dir={'': 'lib'},
