@@ -1,5 +1,7 @@
 # lxml to dict #
 
+[Package on Pypi](https://pypi.org/project/lxml-to-dict/)
+
 A simple conversion of an lxml.objectify element to a python dictionary.
 
 ## Usage ##

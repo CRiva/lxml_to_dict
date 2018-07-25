@@ -11,7 +11,7 @@ setup(name='lxml_to_dict',
       package_dir={'': 'lib'},
       author='Connor Riva',
       author_email='criva@westmont.edu',
-      url='https://bitbucket.org/westmont/lxml_to_dict',
+      url='https://github.com/CRiva/lxml_to_dict',
       py_modules=[splitext(basename(path))[0] for path in glob('lib/*.py')],
       classifiers=[
           'Development Status :: 3 - Alpha',
