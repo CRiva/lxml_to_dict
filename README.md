@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CRiva/lxml_to_dict.svg?branch=master)](https://travis-ci.org/CRiva/lxml_to_dict)
+
 # lxml to dict #
 
 [Package on Pypi](https://pypi.org/project/lxml-to-dict/)
