@@ -30,7 +30,7 @@ tox
 
 ## Publish ##
 
-To publish a new version of this package your Pypi user needt to be added to the project. (Ask Connor to give you access)
+To publish a new version of this package your Pypi user needs to be added to the project. (Ask Connor to give you access)
 
 ~~~shell
 # Update version number in setup.py
